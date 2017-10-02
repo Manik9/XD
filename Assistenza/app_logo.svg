@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1363 110 364 364">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #1a9bf1;
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #e5097f;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #1a9bf1;
+        font-size: 38px;
+        font-family: MyriadArabic-Bold, Myriad Arabic;
+        font-weight: 700;
+        letter-spacing: 0.118em;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        filter: url(#Path_4);
+      }
+
+      .cls-8 {
+        filter: url(#Path_3);
+      }
+    </style>
+    <filter id="Path_3" x="1422.5" y="222.5" width="216" height="219" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4" x="1491.5" y="181.5" width="193" height="203" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(0 123)">
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-1" transform="translate(1363 -13)">
+      <rect class="cls-5" width="364" height="364" rx="110"/>
+      <rect class="cls-6" x="3" y="3" width="358" height="358" rx="107"/>
+    </g>
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, 0, -123)">
+      <path id="Path_3-2" data-name="Path 3" class="cls-2" d="M189,229H155V143l32-36a149.189,149.189,0,0,1,2,21ZM145,95a38.187,38.187,0,0,0-9-9c-11-9-25-13-41-13-18,0-33,6-44,19-12,12-17,28-17,46,0,17,5,32,17,44,12,13,26,19,43,19,10,0,18-2,26-7a73.994,73.994,0,0,0,21-19v40c-8,6-15,11-21,13a83.614,83.614,0,0,1-29,5c-26,0-48-10-65-29S0,162,0,135,8,86,25,68C43,50,66,41,95,41s52,8,68,23l5,5Z" transform="translate(1428 187)"/>
+    </g>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 0, -123)">
+      <path id="Path_4-2" data-name="Path 4" class="cls-3" d="M235,45V0L121,130,69,78v47l51,51Z" transform="translate(1428 187)"/>
+    </g>
+    <text id="BETA" class="cls-4" transform="translate(1545 337)"><tspan x="-37.601" y="0">BETA</tspan></text>
+  </g>
+</svg>
